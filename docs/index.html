@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SLUview</title>
+  <link rel="stylesheet" href="slu.css" />
+</head>
+<body>
+  <header class="bar">
+    <h1>SLUview</h1>
+    <nav>
+      <a href="#" class="active">Featured</a>
+      <a href="#">Filters</a>
+      <a href="#">Reviews</a>
+    </nav>
+  </header>
+
+  <main class="grid">
+    <!-- Filters -->
+    <aside class="col filters">
+      <h2>Filter</h2>
+      <label>Category
+        <select id="filter-category">
+          <option>All</option>
+          <option>Coffee &amp; Tea</option>
+          <option>Restaurants</option>
+          <option>Bars</option>
+        </select>
+      </label>
+      <label>Price
+        <select id="filter-price">
+          <option>All</option><option>$</option><option>$$</option><option>$$$</option>
+        </select>
+      </label>
+      <label>Min Rating
+        <input id="filter-min" type="number" min="0" max="5" step="0.1" value="0" />
+      </label>
+      <button id="apply" class="button">Apply</button>
+    </aside>
+
+    <!-- Featured Businesses -->
+    <section class="col featured" id="featured">
+      <h2>Featured Businesses</h2>
+      <article class="card"><h3>Blueprint Coffee</h3>
+        <p class="meta">Coffee &amp; Tea · St. Louis, MO · $$ · ★ 4.5</p>
+        <p class="blurb">Neighborhood spot with pour-over and great latte art.</p>
+      </article>
+      <article class="card"><h3>Yellowbelly</h3>
+        <p class="meta">Restaurants · St. Louis, MO · $$ · ★ 4.2</p>
+        <p class="blurb">Tropical cocktails and seafood-forward plates in the CWE.</p>
+      </article>
+      <article class="card"><h3>Broadway Oyster Bar</h3>
+        <p class="meta">Bars · St. Louis, MO · $$ · ★ 4.6</p>
+        <p class="blurb">Live music, Cajun favorites, and riverfront vibes.</p>
+      </article>
+    </section>
+
+    <!-- Reviews -->
+    <section class="col reviews">
+      <h2 id="reviews-title">Latest Review</h2>
+      <div id="reviews"></div>
+    </section>
+  </main>
+
+  <footer class="bar"><small>© 2025 SLUview (class project)</small></footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

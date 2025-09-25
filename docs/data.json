@@ -1,0 +1,241 @@
+{
+  "businesses": [
+    {
+      "id": "yellowbelly",
+      "name": "Yellowbelly",
+      "category": "Restaurants",
+      "city": "St. Louis, MO",
+      "price": "$$",
+      "rating": 4.6
+    },
+    {
+      "id": "broadway-oyster-bar",
+      "name": "Broadway Oyster Bar",
+      "category": "Restaurants",
+      "city": "St. Louis, MO",
+      "price": "$$",
+      "rating": 4.4
+    },
+    {
+      "id": "blueprint-coffee",
+      "name": "Blueprint Coffee",
+      "category": "Coffee & Tea",
+      "city": "St. Louis, MO",
+      "price": "$$",
+      "rating": 4.5
+    }
+  ],
+  "reviews": [
+    {
+      "reviewer": "Thao N.",
+      "stars": 5.0,
+      "date": "Sep 15, 2025",
+      "text": "Definitely in my top 5. I love their ambiance, perfect for nice casual elevated dinner.\nThe food is DIVINE. I love their cheddar biscuits (for apps), braised short rib, chilli glazed pork ribs, and grilled salmon. These are my personal go-to. \nTheir drinks are amazing as well!",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Taylor A.\n\n2 photos",
+      "stars": 5.0,
+      "date": "Jul 20, 2025",
+      "text": "We had a great experience here! Where we were sitting was a little noisy but overall the vibes of the restaurant were good and decor was cute!\nOur server did great.\nFood was delish. Forgot to take pics until halfway through our entrees, whoops! But nothing was disappointing. We got the cheddar biscuits which were good, a more moist version of red lobsters biscuits, not a bad thing imo! \nThe lobster roll was good, but just a lobster roll, nothing special. Crab fritters were delightful and unique, and the chili glazed pork belly was our favorite app. \nWe got the pork chop and short rib entrees which were both equally delicious. And for dessert we did the pineapple upside down bread pudding. Also amazing, very moist, not too dry. I would return. And would consider going for more of a tapas experience too as a lot of their apps/small plates looked good!",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Matthew W.",
+      "stars": 3.0,
+      "date": "Jul 10, 2025",
+      "text": "Good news first:\nDecor and ambience is modern and fresh\nStaff is wonderful.  \nCocktails are diverse and the star of the show.   That's a review for the connected lazy tiger one day. \nFriends at the table loved the chicken burger and veggie burger.   Caesar salads were dubbed different but acceptable.  \nBad news Bear\nMenu can't decide if this is fine dining or simply an overpriced cwe trendy hot spot.    Could perhaps be both with more yakitori concept dishes at lower prices.   Think 1 skewer for $6-$7 then 2 for $13.   4 for $20.   Mix and match yields more $$$    Beef.  Octopus.  Pork belly.   The opportunity is there to pair with fav cocktail  and set up street carts for the late night crowds.   \nLastly and sorry to say, oversauced and oversalted salmon is not the way.  The pickled slaw saved the dish from needing a water brigade.",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Natalie H.\n\n7 photos",
+      "stars": 5.0,
+      "date": "Sep 8, 2025",
+      "text": "Absolutely amazing food and drinks! We ordered the two types of oysters, the lobster roll, pork belly, and coconut shrimp. We made reservations and sat at the bar. Next time, we'll plan to get reservations at a table. The drinks were fabulous - lots of alcoholic and non-alcoholic options. We tried the Burner Phone, Mojito, and Glass Octopus. Parking is available along the surrounding streets. Inside there is lots of natural lighting which I'm assuming might turn to mood lighting once the sun sets. There's table and bar seating options, plus an outdoor patio.",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Shirley D.\n\n3 photos",
+      "stars": 5.0,
+      "date": "Sep 18, 2025",
+      "text": "This was my first time at Yellowbelly. I have heard a lot of great reviews and glad i finally got to experience it. Located in the Central West End. There is a public parking garage next door or you can street park if you are lucky enough to find a spot. Atmosphere is cozy with dim lighting. It was a little noisy making to hear everyone at our table of 6. The menu is very eclectic with a variety of very creative food choices. I went with the fish skewers (on menu as salmon, however, this night was halibut). Beautifully plated with a small side of slaw (? Not sure what to call it? Kinda pickly) Sauce was tangy with a little heat. Very good. Also, had the brussel sprouts. Very good! For dessert, my husband and I split the Pineapple Upside Down Bread Pudding. A must try! This is a great dessert!",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Renee S.\n\n2 photos",
+      "stars": 3.0,
+      "date": "Sep 9, 2025",
+      "text": "I really liked the ambiance at this location, had a very fun atmosphere with good servers. The drinks and watermelon starter were great, but the rest of the food came out really slow. I also thought the mains were way too salty which made it hard to finish.",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Deyna J.\n\n10 photos",
+      "stars": 5.0,
+      "date": "Aug 30, 2025\n\nNov 25, 2023",
+      "text": "Been here for drinks at the bar when the lazy tiger was too busy. I've wanted to eat here for a while. We finally booked a resy with my boyfriend's parents who live in the CWE. The food was excellent! What stood out for me was the watermelon salad. Never had anything like it. I definitely want to return and sit outside.\n\nWe wanted to go to have drinks at Lazy Tiger but they couldn't seat our 5 person group. We were told that Yellowbelly had more seating and a larger bar, so we walked over. I believe they have the same owners. We sat at the bar and only ordered drinks. The drinks we ordered were Lazy Tiger, Word of Mouth and Kiwi Pisco Sour. I had a Word of Mouth. It was very good, more sour than I thought it would be which was good. I tasted the Lazy Tiger. It had a Smokey flavor, I didn't like it. My boyfriend wasn't sure about it after the first sip but did like it as he kept drinking it. I liked the ambiance and vibe of the restaurant. We want to return and eat. Their menu looks great.",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Noel F.\n\n5 photos",
+      "stars": 5.0,
+      "date": "Aug 29, 2025",
+      "text": "Lovely experience for happy hour! We got a reservation, but I had to call when I discovered we'd be cutting it close. They were so friendly about it. Our waiter was attentive without being over bearing. We ordered pretty much off the happy hour menu, but got the biscuits from the regular menu. Everything is very flavorful and fresh, and we couldn't get over the amount of fries for $5! Our drinks were tasty and strong, a highlight was the tropical old fashioned. It was a refreshing twist - the pineapple works really well with the whiskey!",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Alisha V.\n\n1 photo",
+      "stars": 5.0,
+      "date": "Aug 24, 2025",
+      "text": "Yellowbelly is one of my favorite restaurants in STL! We were in with a group of 10 people so I got to try a lot of different food and everything was delicious. I have been several times and it's always been a great experience. Everyone needs to get the cheddar biscuits to start! The drinks are also the star of the show. I recommend getting a bunch of small plates and a chicken burger and splitting everything. Our server was very attentive, we were never out of drinks or water, and the service was very smooth, even though it was for a big group.",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Jordan H.\n\n2 photos",
+      "stars": 5.0,
+      "date": "Sep 13, 2025",
+      "text": "Such a cute spot! Sat at the bar which was such a great vibe! Food was delicious, the bartenders had great recs!",
+      "businessId": "yellowbelly"
+    },
+    {
+      "reviewer": "Tedd T.",
+      "stars": 5.0,
+      "date": "Aug 4, 2025",
+      "text": "Broadway Oyster Bar is the kind of place where you walk in expecting sticky floors and cheap beer--and leave wondering if you accidentally joined a Mardi Gras parade and fell in love with a crawfish.\n\nYes, it's a dive. A beautiful, weird, glorious dive. The decor is a fever dream of New Orleans meets garage sale, the bathroom situation is... historic, and the tables may wobble--but the food? Unreasonably good. Like, \"did I just get spiritually moved by a po'boy?\" good.\n\nThe oysters are fresh, the Cajun flavors are loud (in a good way), and the jambalaya might just cure whatever existential crisis you're currently battling. The drinks are strong, the staff is friendly in that \"I've seen things\" kind of way, and the live music makes it impossible not to shimmy in your seat--even if you were just here for dinner.\n\nIt's not polished. It's not quiet. And thank God for that. Broadway Oyster Bar isn't just a restaurant--it's an experience. Come hungry, come weird, and bring napkins. You're gonna need 'em.",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Ultima M.\n\n10 photos",
+      "stars": 3.0,
+      "date": "Sep 12, 2025",
+      "text": "First time here and we found parking right in front YAY\n\nWe sat in the patio area. We were told that we could not sit at a big table because we were a party of 2 and the big table is for larger parties, that totally makes sense so we moved to a smaller table and waited and waited for a server ......\n\nSo finally I went to the bar and ordered our drinks and oyster shooters myself. Bartender was friendly and took our order and asked if we had a server and I said No, and she said she would put our order in, THANK YOU\n\nPatio area has a stage with a live band, decor is nice and gives NOLA vibes. This spot is a good spot to pre-game before a baseball game (which is what we came for)",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Matt L.",
+      "stars": 4.0,
+      "date": "Aug 18, 2025",
+      "text": "well, i've finally come to broadway oyster. usually i only ever came by this place when i had missed my exit and came too far, thus requiring a turn around right next to this place. there is usually live music going on at night, so i've actually always been curious about this spot\n\ni came here with a friend on a friday, and it was fairly busy but we were able to get a seat right away. the parking situation: there is street parking and i think you generally should be fine leaving your car here. there are also some paid parking options nearby, or you can try your luck parking in the white castle across the road\n\nI thought the service here was pretty good. i got a red bird which i don't have a strong opinion on. it tasted a bit like gatorade with some alcohol in it, which isn't entirely a bad thing. as for the food, i got the gumbo while my friend got some sort of sandwich thing. you're able to choose from different sizes of gumbo, but i just got the smaller one. overall i thought it was very good \n\nwe also got some oysters. i guess oysters are pretty expensive (20 for a half dozen, works out to be a little over $3 each), but what can you do? especially living so far from the ocean. i thought they were really good overall, also considering i haven't had oysters in many years\n\nim happy i visited, would come again",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Mindy P.\n\n1 photo",
+      "stars": 4.0,
+      "date": "Sep 20, 2025",
+      "text": "Good vibes overall, but their food is very expensive. We sat on the patio and had live music during lunch, which was a huge plus. Parking was easy to find in the lot across the restaurant, which is free. Food was tasty though, and overall it felt like a good portion size too. Service was okay for the most part.",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Tyra R.\n\n1 photo",
+      "stars": 4.0,
+      "date": "Sep 22, 2025",
+      "text": "Always good, fresh and made with love. I have never experienced a bad dish from this place. Everything I go I always try a new dish and I haven't been disappointed as of yet. This place is a St. Louis staple please try.",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Sarah B.\n\n2 photos",
+      "stars": 5.0,
+      "date": "Sep 1, 2025",
+      "text": "The mood, lighting, and atmosphere here are just what we were looking for.  We sat at a hi-top outside, and it was a perfect evening for it!  I had the bloody Mary. A great kick and real flavor!   The gator bites has a nice kick, as well. A bit spendy, but it's not every day you eat gator.  I had the shrimp and mushroom pasta...  beautifully delicious!!  The grilled bread could use some butter. Everything else was perfect!!",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Deyna J.\n\n4 photos",
+      "stars": 5.0,
+      "date": "Aug 30, 2025",
+      "text": "The menu is very limited for a vegetarian but I always wanted to come here. It's historic and a St. Louis staple. I loved the atmosphere and vibe. We went before a Cardinals game. It wasn't too busy and there was some live music. It was HOT but we sat outside and they have fans that helped a lot with the heat. The food was great, spicy! I had the pasta. The fries were good too. My boyfriend loved his shrimp dish. I would return for drinks, live music and the atmosphere.",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Russ B.\n\n2 photos",
+      "stars": 5.0,
+      "date": "Aug 8, 2025",
+      "text": "This is a StL gem for a reason! The music is great, the food is delicious, and the drinks are perfect on a hot summer day. We were able to get a seat quickly and had a great date night!",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Amanda M.\n\n10 photos",
+      "stars": 5.0,
+      "date": "Jun 12, 2025\n\nSep 22, 2019",
+      "text": "We are back in St. Louis after almost five years and had to come back to BOB. We were seated inside this time and we loved the vibe inside! Really cool decor to look at all around. I had the SoCo Hurricane and it was amazing. It was strong but also fruity. My husband had the Blackberry Mule and he loved it. \nWe started with Cajun Tequila wing and they were phenomenal. They were spicy and tangy, crispy and juicy. Everyone LOVED them. I had the chicken Mona, my son the jambalaya, my daughter had the garlic cream linguini, and my husband the pulled pork sliders. Everything was SO GOOD! Insanely good. Our food came out quickly and was hot. Everything was correct and tasted amazing. \nOur server was amazing, friendly, and we never had empty drinks. She was so helpful and lovely. Can't wait to come back again someday!",
+      "businessId": "broadway-oyster-bar"
+    },
+    {
+      "reviewer": "Jasmine H.\n\n1 photo",
+      "stars": 4.0,
+      "date": "Jun 3, 2025",
+      "text": "I've lived in STL for a while and finally decided to try Broadway oyster bar. Overall it was a good experience and enjoyed the performance that night. The outdoor seating area is a good touch for liveusic during the warmer months. \nI ordered the shrimp and grits and it was delicious! Everything was perfectly prepared, the shrimp was fresh and the garlic cream sauce was very flavorful. The only downside to the meal was the meal in my opinion was overly priced for the small amount that I was given.",
+      "businessId": "broadway-oyster-bar"
+    },
+    
+    {
+      "reviewer": "Austin S.",
+      "stars": 5.0,
+      "date": "Aug 31, 2025",
+      "text": "So I walked in at 3:30 on a saturday and this place is jumping?? I suppose caffeine knows no time cutoff, lol.\n\nThe interior has an interesting design. A few big islands for studying and high tops for groups. It is all very open, at the counter I almost did not know where to order lol.\n\nThe worker was great. Friendly, quick, happy!\n\nCoffee was solid, too. A latte with ample ice is a good latte, regardless of flavor. Don't worry, had plenty of flavor, too! Super solid coffee shop. I assume it may be tough to study here as it is on the loop so it probably gets loud and sees tons of traffic. \n\nIt will certainly be a mainstay for me any time I hit the Loop!",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Whitney S.",
+      "stars": 5.0,
+      "date": "May 26, 2025",
+      "text": "Blueprint is my favorite coffee shop! My current obsession: Cherry Cola Espressoda. They also have the best chocolate chip cookies!\n\nThe staff is super welcoming and there is a lot of space to work but it does get noisy",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Sara G.",
+      "stars": 5.0,
+      "date": "Apr 4, 2025",
+      "text": "Caffeine is chemistry I guess or at least Blueprint Coffee thinks so. \n\nListen, if my coffee arrives in an Erlenmeyer flask, I already know I'm in the right place. Blueprint Coffee isn't just serving up a drink; they're conducting a full-on science experiment with every pour. And honestly, I'm here for it.\n\nThe place was packed because of course it was. Good coffee attracts a crowd, and St. Louis just so happens to have one of the best coffee shop scenes out there.\n\nA carefully measured and extracted moment of joy in a flask. Consider me converted.",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Mia T.",
+      "stars": 4.0,
+      "date": "Sep 7, 2025",
+      "text": "The overnight oats are fantastic, and all of the drinks are high quality! I felt the price point was a little high for the drinks but in this economy they're hardly an outlier. Lots of workspace and seating, with lots of natural light! The service was great, if you're staying they'll bring your order straight to your table. Chairs are a little uncomfy but they all have back support, even the bar stools! WiFi available, street parking required. I do not believe they charge for alternative milks",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Irene N.",
+      "stars": 5.0,
+      "date": "Dec 16, 2024",
+      "text": "The service is great! The baristas work hard to bring the best coffee. The food is all made in store, and the coffee is roasted so often that always makes the coffee taste and feel fresh!\n\nEven for a busy Saturday, the wait is worth it. I got a matcha latte and I have also ordered a biscuit which was yummy!",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Jodi R.",
+      "stars": 5.0,
+      "date": "Jun 5, 2025",
+      "text": "Awesome atmosphere with various seating options. The staff was friendly and helpful as this was my 1st visit. The biscuit and jam was delicious and the salted caramel cappuccino was amazing!  I will definitely return (maybe tomorrow morning!).",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Courtney S.",
+      "stars": 5.0,
+      "date": "May 4, 2024",
+      "text": "One of my high school classmates owns and operates Blueprint Coffee so I feel I will always support. The coffee is great, the staff is wonderful and the customers are one of a kind.  A kind gentleman who ordered many bags of coffee from there gave myself and my friend his free coffee coupons. That was really nice of him!\n\n#PayItForward",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Joshua D.",
+      "stars": 2.0,
+      "date": "Nov 8, 2024",
+      "text": "Review Visit: July 30th, 2018\n\nIs Blueprint Coffee a good blue print for coffee? Sadly, no.\n\nIn 2017, I was in St. Louis for a Coheed and Cambria concert and discovered Blueprint Coffee. Unfortunately, they closed 5 minutes before I got there. So, I made a mental note to visit it the next time I was in town.\n\nFast forward to 2018 and I am in town again to see a Cardinals game with my mom. We only had a few minutes to grab some coffee before the game, so we were in and out super quick.\n\nSo... why isn't Blueprint a blue print for coffee shops? The interior was pretty plain. Not that that is bad. It's just very plain with no d\u00e9cor. We don't visit coffeehouses for the d\u00e9cor or paint colors. We visit them for coffee.\n\nHow was the coffee? It was interesting. I ordered a Tekton v12, which according to the menu was a 'Colombia/Guatemala' filtered coffee. It had a hint of chestnut, I think. It was alright. Not something I would order again but not bad enough to not finish.\n\nThe whole menu, which was on an awkward clipboard, is weird. It was kind of hard to decipher and figure out how to order a plain black coffee. I'd definitely recommend them having a bit more cohesive and a better laid out menu. They also offered teas and food but since we were in a rush, I didn't get a chance to see what they offered.\n\nLast but not least... the customer service. The barista must have been having a bad day or something because he showed no enthusiasm when I placed my order and when he handed it to me. That whole mood of 'you aren't welcome here' was actually felt throughout the entire place. Now maybe it was because I was on a time restraint, but I definitely was happy to leave the place.\n\nNow with the disclaimer. Just because I had a 'less-than-stellar' experience here doesn't mean you should avoid it. The online reviews are great and the place was packed when I was there. They opened a 2nd location, so business must be going great. Go there, try it yourself and form your own opinion.",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Joon K.",
+      "stars": 4.0,
+      "date": "Oct 2, 2024",
+      "text": "A step up from Starbucks, but nothing extraordinary. Decent coffee spot if you're in the area and need a cup. While it won't blow you away, it'll satisfy your caffeine craving better than the big chains.\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+      "businessId": "blueprint-coffee"
+    },
+    {
+      "reviewer": "Lynn A.",
+      "stars": 5.0,
+      "date": "Jan 2, 2024",
+      "text": "Food: 5 Stars\nService: 5 Stars\n\nI'm not quite the coffee connoisseur, but I can appreciate the intentions being made at Blueprint Coffee. The beans they source from places like Ethiopia and El Salvador are luscious and well-rounded. The brews definitely lack the heavy bitterness you often taste with commercial roasts.\n\nTheir breakfast menu is delightful with handmade biscuits and sandwiches.",
+      "businessId": "blueprint-coffee"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+/* ===== SLUview — polished dark theme ===== */
+:root{
+  --bg:#0b0d12; --surface:#0f121a; --card:#121624; --card-2:#0f1420;
+  --fg:#e7ecf4; --muted:#a9b1c1; --border:#222a39;
+  --accent:#6aa8ff; --accent-2:#62e3b1; --warn:#ffd166;
+  --radius:16px; --shadow:0 10px 30px rgba(0,0,0,.35);
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0; color:var(--fg);
+  font:16px/1.55 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background:
+    radial-gradient(1200px 700px at -10% -10%, rgba(98,227,177,.08), transparent 60%),
+    radial-gradient(900px 600px at 110% 10%, rgba(106,168,255,.10), transparent 60%),
+    var(--bg);
+}
+
+/* Header */
+.bar{
+  display:flex; align-items:center; justify-content:space-between;
+  padding:14px 18px;
+  background: linear-gradient(180deg, rgba(18,22,36,.85), rgba(15,18,26,.65));
+  border-bottom:1px solid var(--border);
+  position:sticky; top:0; z-index:50; backdrop-filter: blur(8px);
+}
+h1{margin:0; font-size:20px; letter-spacing:.3px}
+nav a{
+  color:var(--muted); text-decoration:none; margin-left:16px; padding:6px 8px; border-radius:10px;
+  transition:color .18s ease, background-color .18s ease;
+}
+nav a.active, nav a:hover{ color:var(--fg); background:rgba(255,255,255,.05) }
+
+/* Layout */
+.grid{
+  display:grid; gap:18px; padding:20px; max-width:1200px; margin:0 auto;
+  grid-template-columns:260px 1fr 420px; align-items:start;
+}
+.col{
+  background: linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,.01));
+  border:1px solid var(--border); border-radius:var(--radius); padding:16px; box-shadow:var(--shadow);
+}
+.col h2{margin:0 0 12px 0; font-size:18px}
+
+/* Filters */
+.filters label{display:block; margin:12px 0; color:var(--muted)}
+select,input{
+  width:100%; padding:10px 12px; border-radius:12px; outline:none;
+  border:1px solid var(--border); background:#0e1220; color:var(--fg);
+  transition:border-color .18s ease, box-shadow .18s ease;
+}
+select:focus,input:focus{ border-color:var(--accent); box-shadow:0 0 0 3px rgba(106,168,255,.18) }
+.button{
+  margin-top:6px; display:inline-flex; align-items:center; gap:8px;
+  background:linear-gradient(135deg, var(--accent), var(--accent-2));
+  color:#071018; border:none; font-weight:700; padding:10px 14px; border-radius:12px; cursor:pointer;
+}
+
+/* Cards */
+.featured .card{
+  background: linear-gradient(180deg, var(--card), var(--card-2));
+  border:1px solid var(--border); border-radius:16px; padding:14px; margin:12px 0;
+  box-shadow:var(--shadow);
+  transition:transform .12s ease, border-color .18s ease, box-shadow .18s ease;
+  cursor:pointer;
+}
+.featured .card:hover{
+  transform:translateY(-3px); border-color:rgba(106,168,255,.45);
+  box-shadow:0 14px 40px rgba(0,0,0,.45);
+}
+.featured .card.active{
+  outline:1.5px solid rgba(106,168,255,.55);
+  box-shadow:0 10px 34px rgba(106,168,255,.18);
+}
+.meta{ color:#cfd6e3; margin:.25rem 0 }
+.blurb{ color:#d7deeb }
+
+/* Reviews */
+.reviews{ margin-top:6px }
+.review{
+  background:#0f1625; border:1px solid var(--border); border-radius:14px;
+  padding:12px 12px 14px; margin-bottom:12px;
+}
+.review .row{display:flex; gap:8px; align-items:center; color:var(--muted); font-size:.95rem}
+.review .stars{ font-weight:700; color:var(--warn) }
+.review .text{ color:#e4ecfa; white-space:pre-wrap; margin-top:6px }
+
+/* Footer */
+footer.bar{ margin-top:18px; border-top:1px solid var(--border); border-bottom:none }
+
+/* Responsive */
+@media (max-width: 1100px){ .grid{ grid-template-columns: 240px 1fr } }
+@media (max-width: 800px){
+  .grid{ grid-template-columns: 1fr }
+  .reviews{ order: 3 }
+  .bar{ position: static }
+}
